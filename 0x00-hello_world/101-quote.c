@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main Beginning point
+ * main - Beginning point
  *
  * Return: Always 1 (Success)
  */
