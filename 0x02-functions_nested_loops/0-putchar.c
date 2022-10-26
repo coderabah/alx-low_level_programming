@@ -1,9 +1,10 @@
 #include "main.h"
+
 /**
  * 
  * main - Beginning code
  *
- * Return: Always return 0
+ * Return: Always 0 (success)
  *
  */
 int main(void)
